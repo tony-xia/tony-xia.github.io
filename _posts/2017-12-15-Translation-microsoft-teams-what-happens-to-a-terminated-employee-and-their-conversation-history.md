@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[翻译\] Microsoft Teams：删除成员账户其历史聊天会发生什么？
+title: [翻译] Microsoft Teams：删除成员账户其历史聊天会发生什么？
 ---
 
 ### 介绍：
@@ -51,4 +51,4 @@ Adele不再显示为Team成员;
 当用户账户从 Office 365 中删除时, 该用户的群聊或者私聊的历史聊天记录 将会被保留。如果有任何问题，意见，建议或反馈或想了解的更加深入，请下面的评论中留言。
 
 
-\[原文\] https://blogs.technet.microsoft.com/skypehybridguy/2017/09/01/microsoft-teams-what-happens-to-a-terminated-employee-and-their-conversation-history/
+\[原文\] [https://blogs.technet.microsoft.com/skypehybridguy/2017/09/01/microsoft-teams-what-happens-to-a-terminated-employee-and-their-conversation-history/](https://blogs.technet.microsoft.com/skypehybridguy/2017/09/01/microsoft-teams-what-happens-to-a-terminated-employee-and-their-conversation-history/)
