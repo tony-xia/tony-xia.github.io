@@ -3,9 +3,6 @@ layout: post
 title: Microsoft Teams：团队Owner离开公司后，我们该怎么做？
 ---
 
-\[原文\] [https://blogs.technet.microsoft.com/skypehybridguy/2017/11/29/microsoft-teams-help-the-team-owner-left-the-company-and-we-dont-know-what-to-do/](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/29/microsoft-teams-help-the-team-owner-left-the-company-and-we-dont-know-what-to-do/)
-
-
 您是否曾在这么一个团队里，该团队唯一有Owner权限的人离开了公司？不幸的是,如果这个人不再在公司里，您可能觉得没有办法让其他团队成员再成为team的owner。我有一个简单易用的解决方案，但您需要成为Office 365租户的Admin或联系你公司的help desk。
 
 在Microsoft Teams中创建团队时，它也会创建Office 365 Group。 Office 365 Group提供访问团队所需的基础权限和成员身份。拿 Contoso organization 举个例子，Christie Cline(公司销售市场部副总裁)离开了该team。Christie在Microsoft Teams上是Del Mar项目团队的owner。此时team还有其他成员，但没有owner了。没有团队管理者，我们将如何添加/删除成员并管理团队？
@@ -41,4 +38,7 @@ Christie离开公司，IT接到通知在Office 365中删除她的用户帐户：
 ![007](../images/post20180108/007.png)
 
 结论： 添加owner是一个简单的过程，但需要在Office 365租户中具有管理员权限的人员。
+
+
+\[原文\] [https://blogs.technet.microsoft.com/skypehybridguy/2017/11/29/microsoft-teams-help-the-team-owner-left-the-company-and-we-dont-know-what-to-do/](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/29/microsoft-teams-help-the-team-owner-left-the-company-and-we-dont-know-what-to-do/)
 
