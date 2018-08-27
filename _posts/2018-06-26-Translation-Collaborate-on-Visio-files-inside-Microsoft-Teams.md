@@ -19,9 +19,6 @@ Team成员可以通过应用内对话在图表上一起工作，以实时提供�
 
 ![003](../images/post20180626/003.png)
 
-Viewing diagrams within Teams is free for?most Office 365 customers, but editing is only available for those with a Visio Online Plan 1 or Plan 2 subscription. Please note, neither of these licenses include Teams, which available through Microsoft 365.
-Please visit the?Visio website?for more details on each plan, as well as options for trying the Visio Online experience and our cloud-first innovations for free. We also invite you to submit ideas for more cloud innovations on our?UserVoice?site. For questions about our latest releases, please email us at tellvisio@microsoft.com. To stay informed of the latest Visio releases, follow us on?Facebook?and?Twitter?and visit our?blog?and?Tech Community?sites.
-
 ## Visio Online的更多功能
 
 对于大多数Office 365客户而言，在Team中查看图表是免费的，但编辑仅适用于具有Visio Online Plan 1 or Plan 2订阅的人员。 请注意，这些许可证都不包括通过Microsoft 365提供的Teams。
