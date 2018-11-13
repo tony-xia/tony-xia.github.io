@@ -1,7 +1,18 @@
 <div id="simple-counter"></div>
 <script type="text/javascript">
     (function() {
-        document.getElementsById('simple-counter').innerHTML = "abc";
+        var increaseCounterRequest = new XMLHttpRequest();
+        increaseCounterRequest.open('post', 'https://simplecounter.azurewebsites.net/counters/currentpage', true);
+        increaseCounterRequest.send();
+
+        var getCounterRequest = new XMLHttpRequest();
+        getCounterRequest.onreadystatechange = function () {
+            if (getCounterRequest.readyState === 4) {
+                document.getElementById('simple-counter').innerHTML = JSON.parse(getCounterRequest.response).number + " total views";
+            }
+        }
+        getCounterRequest.open('get', 'https://simplecounter.azurewebsites.net/counters/currentpage', true);
+        getCounterRequest.send();
     })();
 
 </script>
