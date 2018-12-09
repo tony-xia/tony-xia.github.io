@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开发一个Teamsd的messaging extension
+title: 开发Teams的messaging extension
 ---
 
 ### 什么是Messaging Extension
