@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 新增功能！trello个人应用程序登陆 Microsoft Teams
+title: 新增功能！Trello个人应用程序登陆 Microsoft Teams
 ---
 
 从初创企业到《财富》500强公司, Trello是团队在任何项目上进行合作的视觉方式。在Microsoft Teams中, 我们发现围绕项目进行大量对话和协作的方式。因此, 一个首屈一指的项目管理工具应该与团队协作的终极枢纽进行合作, 以便让员工更好地一起工作。
