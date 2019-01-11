@@ -25,28 +25,28 @@ goto|Ctrl+G|Ctrl+Shift+G
 
 #### 1.1搜索
 在teams 的任意页面按Ctrl+E,会出现如图效果：
-![搜索](../images/post20190110/搜索.PNG)
+![搜索](../images/post20190110/搜索.png)
 
 #### 1.2显示命令
 在teams 的任意页面按Ctrl+Slash (/),会出现如图效果：
-![显示命令](../images/post20190110/显示命令.PNG)
+![显示命令](../images/post20190110/显示命令.png)
 
 #### 1.3goto
 在teams 的任意页面按Ctrl+G,会出现如图效果：
-![goto](../images/post20190110/goto.PNG)
+![goto](../images/post20190110/goto.png)
 
 #### 1.4开始新聊天
 在teams 的任意页面按Ctrl+N,会出现如图效果：
-![开始新聊天](../images/post20190110/开始新聊天.PNG)
+![开始新聊天](../images/post20190110/开始新聊天.png)
 
 #### 1.5打开设置
 在teams 的任意页面按Ctrl+Comma (,),会出现如图效果：
-![打开设置](../images/post20190110/打开设置.PNG)
+![打开设置](../images/post20190110/打开设置.png)
 
 
 #### 1.6打开帮助
 在teams 的任意页面按F1,会跳转至浏览器页面地址https://support.office.com/zh-cn/teams，如图效果：
-![打开帮助](../images/post20190110/打开帮助.PNG)
+![打开帮助](../images/post20190110/打开帮助.png)
 
 ### 2.导航
 功能|桌面版本快捷键|WebApp版本快捷键
@@ -60,28 +60,28 @@ goto|Ctrl+G|Ctrl+Shift+G
 
 #### 2.1打开活动
 在teams 的任意页面按Ctrl+1,会跳转如图效果：
-![打开活动](../images/post20190110/打开活动.PNG)
+![打开活动](../images/post20190110/打开活动.png)
 
 
 #### 2.2打开聊天
 在teams 的任意页面按Ctrl+2,会跳转如图效果：
-![打开聊天](../images/post20190110/打开聊天.PNG)
+![打开聊天](../images/post20190110/打开聊天.png)
 
 
 #### 2.3打开团队
 在teams 的任意页面按Ctrl+3,会跳转如图效果：
-![打开团队](../images/post20190110/打开团队.PNG)
+![打开团队](../images/post20190110/打开团队.png)
 
 
 
 #### 2.4打开会议
 在teams 的任意页面按Ctrl+4,会跳转如图效果：
-![打开会议](../images/post20190110/打开会议.PNG)
+![打开会议](../images/post20190110/打开会议.png)
 
 
 #### 2.5打开文件
 在teams 的任意页面按Ctrl+5,会跳转如图效果：
-![打开文件](../images/post20190110/打开文件.PNG)
+![打开文件](../images/post20190110/打开文件.png)
 
 
 ### 3.聊天输入界面
@@ -96,25 +96,25 @@ goto|Ctrl+G|Ctrl+Shift+G
 
 #### 3.1展开组合框
 在teams 的聊天输入页面按Ctrl+Shift+X,会跳转如图效果：
-![展开组合框](../images/post20190110/展开组合框.PNG)
+![展开组合框](../images/post20190110/展开组合框.png)
 
 
 #### 3.2发送消息
 在teams 的聊天输入页面按Ctrl+Enter,会跳转如图效果：
-![发送消息](../images/post20190110/发送消息.PNG)
+![发送消息](../images/post20190110/发送消息.png)
 
 #### 3.3添加附件
 在teams 的聊天输入页面按Ctrl+O,会跳转如图效果：
-![添加附件](../images/post20190110/添加附件.PNG)
+![添加附件](../images/post20190110/添加附件.png)
 
 #### 3.4换行
 在teams 的聊天输入页面按Shift+Enter,会跳转如图效果：
-![换行](../images/post20190110/换行.PNG)
+![换行](../images/post20190110/换行.png)
 
 
 #### 3.5标记为重要
 在teams 的聊天输入页面按Ctrl+Shift+I,会跳转如图效果：
-![标记为重要](../images/post20190110/标记为重要.PNG)
+![标记为重要](../images/post20190110/标记为重要.png)
 
 
 ### 4.会议
@@ -129,10 +129,10 @@ goto|Ctrl+G|Ctrl+Shift+G
 
 #### 4.1开始语音呼叫
 在teams 的聊天输入页面按Ctrl+Shift+C,会跳转如图效果：
-![开始语音呼叫](../images/post20190110/开始语音呼叫.PNG)
+![开始语音呼叫](../images/post20190110/开始语音呼叫.png)
 
 
 #### 4.2开始视频呼叫
 在teams 的聊天输入页面按Ctrl+Shift+U,会跳转如图效果：
-![开始视频呼叫](../images/post20190110/开始视频呼叫.PNG)
+![开始视频呼叫](../images/post20190110/开始视频呼叫.png)
 
