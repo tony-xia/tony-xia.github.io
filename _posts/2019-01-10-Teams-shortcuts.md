@@ -87,14 +87,48 @@ title: Teams中的快捷键让沟通协作更加高效
 ![打开帮助](../images/post20190110/打开帮助.png)
 
 ### 2.导航
-| 功能 | 桌面版本快捷键 | WebApp版本快捷键 |
-|-------|--------|---------|
-| 打开活动 | Ctrl+1 | Ctrl+Shift+1 |
-| 打开聊天 | Ctrl+2 | Ctrl+Shift+2 |
-| 打开团队 | Ctrl+3 | Ctrl+Shift+3 |
-| 打开会议 | Ctrl+4 | Ctrl+Shift+4 |
-| 打开文件 | Ctrl+5 | Ctrl+Shift+5 |
 
+<table>
+<colgroup>
+<col width="40%" />
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>功能</th>
+<th>桌面版本快捷键</th>
+<th>WebApp版本快捷键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">打开活动</td>
+<td markdown="span">Ctrl+1</td>
+<td markdown="span">Ctrl+Shift+1</td>
+</tr>
+<tr>
+<td markdown="span">打开聊天</td>
+<td markdown="span">Ctrl+2</td>
+<td markdown="span">Ctrl+Shift+2</td>
+</tr>
+<tr>
+<td markdown="span">打开团队</td>
+<td markdown="span">Ctrl+3</td>
+<td markdown="span">Ctrl+Shift+3</td>
+</tr>
+<tr>
+<td markdown="span">打开会议</td>
+<td markdown="span">Ctrl+4</td>
+<td markdown="span">Ctrl+Shift+4</td>
+</tr>
+<tr>
+<td markdown="span">打开文件</td>
+<td markdown="span">Ctrl+5</td>
+<td markdown="span">Ctrl+Shift+5</td>
+</tr>
+</tbody>
+</table>
 
 #### 2.1 打开活动
 在Teams 的任意页面按Ctrl+1,会跳转如图效果：
@@ -122,13 +156,48 @@ title: Teams中的快捷键让沟通协作更加高效
 
 
 ### 3.聊天输入界面
-| 功能 | 桌面版本快捷键 | WebApp版本快捷键 |
-|-------|--------|---------|
-| 展开组合框 | Ctrl+Shift+X | Ctrl+Shift+X |
-| 发送消息 | Ctrl+Enter | Ctrl+Enter |
-| 添加附件 | Ctrl+O | Ctrl+Shift+O |
-| 换行 | Shift+Enter | Shift+Enter |
-| 标记为重要 | Ctrl+Shift+I | Ctrl+Shift+I |
+
+<table>
+<colgroup>
+<col width="40%" />
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>功能</th>
+<th>桌面版本快捷键</th>
+<th>WebApp版本快捷键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">展开组合框</td>
+<td markdown="span">Ctrl+Shift+X</td>
+<td markdown="span">Ctrl+Shift+X</td>
+</tr>
+<tr>
+<td markdown="span">发送消息</td>
+<td markdown="span">Ctrl+Enter</td>
+<td markdown="span">Ctrl+Enter</td>
+</tr>
+<tr>
+<td markdown="span">添加附件</td>
+<td markdown="span">Ctrl+O</td>
+<td markdown="span">Ctrl+Shift+O</td>
+</tr>
+<tr>
+<td markdown="span">换行</td>
+<td markdown="span">Shift+Enter</td>
+<td markdown="span">Shift+Enter</td>
+</tr>
+<tr>
+<td markdown="span">标记为重要</td>
+<td markdown="span">Ctrl+Shift+I</td>
+<td markdown="span">Ctrl+Shift+I</td>
+</tr>
+</tbody>
+</table>
 
 
 #### 3.1 展开组合框
@@ -155,13 +224,48 @@ title: Teams中的快捷键让沟通协作更加高效
 
 
 ### 4. 会议
-| 功能 | 桌面版本快捷键 | WebApp版本快捷键 |
-|--|:--:|--:|
-| 接受语音呼叫 | Ctrl+Shift+A | Ctrl+Shift+A |
-| 接受视频呼叫 | Ctrl+Shift+S | Ctrl+Shift+S |
-| 拒绝呼叫 | Ctrl+Shift+D | Ctrl+Shift+D |
-| 开始语音呼叫 | Ctrl+Shift+C | Ctrl+Shift+C |
-| 开始视频呼叫 | Ctrl+Shift+U | Ctrl+Shift+U |
+
+<table>
+<colgroup>
+<col width="40%" />
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>功能</th>
+<th>桌面版本快捷键</th>
+<th>WebApp版本快捷键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">接受语音呼叫</td>
+<td markdown="span">Ctrl+Shift+A</td>
+<td markdown="span">Ctrl+Shift+A</td>
+</tr>
+<tr>
+<td markdown="span">接受视频呼叫</td>
+<td markdown="span">Ctrl+Shift+S</td>
+<td markdown="span">Ctrl+Shift+S</td>
+</tr>
+<tr>
+<td markdown="span">拒绝呼叫</td>
+<td markdown="span">Ctrl+Shift+D</td>
+<td markdown="span">Ctrl+Shift+D</td>
+</tr>
+<tr>
+<td markdown="span">开始语音呼叫</td>
+<td markdown="span">Ctrl+Shift+C</td>
+<td markdown="span">Ctrl+Shift+C</td>
+</tr>
+<tr>
+<td markdown="span">开始视频呼叫</td>
+<td markdown="span">Ctrl+Shift+U</td>
+<td markdown="span">Ctrl+Shift+U</td>
+</tr>
+</tbody>
+</table>
 
 
 #### 4.1 开始语音呼叫
