@@ -13,15 +13,53 @@ title: Teams中的快捷键让沟通协作更加高效
 - 4.团队和会议
 
 ### 1.常规
-| 功能 | 桌面版本快捷键 | WebApp版本快捷键 |
-|-------|--------|---------|
-| 搜索 | Ctrl+E | Ctrl+E |
-| 显示命令 | Ctrl+Slash (/) | Ctrl+Slash (/) |
-| goto | Ctrl+G | Ctrl+Shift+G |
-| 开始新聊天 | Ctrl+N | Alt+N |
-| 打开设置 | Ctrl+Comma (,) | Ctrl+Comma (,) |
-| 打开帮助 | F1 | Ctrl+F1 |
 
+<table>
+<colgroup>
+<col width="40%" />
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>功能</th>
+<th>桌面版本快捷键</th>
+<th>WebApp版本快捷键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">搜索</td>
+<td markdown="span">Ctrl+E</td>
+<td markdown="span">Ctrl+E</td>
+</tr>
+<tr>
+<td markdown="span">显示命令</td>
+<td markdown="span">Ctrl+Slash (/)</td>
+<td markdown="span">Ctrl+Slash (/)</td>
+</tr>
+<tr>
+<td markdown="span">goto</td>
+<td markdown="span">Ctrl+G</td>
+<td markdown="span">Ctrl+Shift+G</td>
+</tr>
+<tr>
+<td markdown="span">开始新聊天</td>
+<td markdown="span">Ctrl+N</td>
+<td markdown="span">Alt+N</td>
+</tr>
+<tr>
+<td markdown="span">打开设置</td>
+<td markdown="span">Ctrl+Comma (,)</td>
+<td markdown="span">Ctrl+Comma (,)</td>
+</tr>
+<tr>
+<td markdown="span">打开帮助</td>
+<td markdown="span">F1</td>
+<td markdown="span">Ctrl+F1</td>
+</tr>
+</tbody>
+</table>
 
 #### 1.1 搜索
 在Teams 的任意页面按Ctrl+E,会出现如图效果：
