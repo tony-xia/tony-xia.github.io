@@ -14,7 +14,7 @@ title: Teams中的快捷键让沟通协作更加高效
 
 ### 1.常规
 | 功能 | 桌面版本快捷键 | WebApp版本快捷键 |
-|--|:--:|--:|
+|-------|--------|---------|
 | 搜索 | Ctrl+E | Ctrl+E |
 | 显示命令 | Ctrl+Slash (/) | Ctrl+Slash (/) |
 | goto | Ctrl+G | Ctrl+Shift+G |
@@ -50,7 +50,7 @@ title: Teams中的快捷键让沟通协作更加高效
 
 ### 2.导航
 | 功能 | 桌面版本快捷键 | WebApp版本快捷键 |
- --|:--:|--:|
+|-------|--------|---------|
 | 打开活动 | Ctrl+1 | Ctrl+Shift+1 |
 | 打开聊天 | Ctrl+2 | Ctrl+Shift+2 |
 | 打开团队 | Ctrl+3 | Ctrl+Shift+3 |
@@ -85,7 +85,7 @@ title: Teams中的快捷键让沟通协作更加高效
 
 ### 3.聊天输入界面
 | 功能 | 桌面版本快捷键 | WebApp版本快捷键 |
-|--|:--:|--:|
+|-------|--------|---------|
 | 展开组合框 | Ctrl+Shift+X | Ctrl+Shift+X |
 | 发送消息 | Ctrl+Enter | Ctrl+Enter |
 | 添加附件 | Ctrl+O | Ctrl+Shift+O |
