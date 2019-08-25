@@ -7,11 +7,11 @@ title: 如何使用ARM创建Teams Bot所需要的Azure资源
 
 在一个teams bot中有一个比较特殊的azure资源需要创建，就是Bot service，一年多前你还可以在另一个微软的独立网站上创建bot，但是现在已经全部整合到azure的大旗下了。
 
-![BotService](../images/post20190814/001.png)
+![BotService](../images/post20190825/001.png)
 
 这个资源主要用来干什么？它主要是用来作为Teams和你的api service的通讯桥梁。它会从Teams（也可以是其他，比如skype）里接受消息，然后抽象成一个统一的bot通信数据模型后，传递给你的api service，当你的api service完成处理后，它又将返回的信息，发送回Teams。所以这个资源必不可少。
 
-![BotService](../images/post20190814/002.png)
+![BotService](../images/post20190825/002.png)
 
 我们先看看它长什么样子，注意一点：目前在azure上这个Bot Channels Registration还不支持Export Template，所以还不能反向工程成ARM
 
@@ -51,4 +51,4 @@ title: 如何使用ARM创建Teams Bot所需要的Azure资源
 
 所以我们需要登入azure portal，然后手动打开teams通道，完成后就一切就绪，可以和你的api服务进行通信了。
 
-![BotService](../images/post20190814/003.png)
+![BotService](../images/post20190825/003.png)
