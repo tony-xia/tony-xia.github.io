@@ -9,7 +9,7 @@ title: LuckyDraw bot有幸被提名为微软2019的People's Choice app
 [https://developer.microsoft.com/en-us/microsoft-teams/blogs/vote-today-for-peoples-choice-award-for-2019-microsoft-app-awards/](https://developer.microsoft.com/en-us/microsoft-teams/blogs/vote-today-for-peoples-choice-award-for-2019-microsoft-app-awards/)
 
 
-虽然最终的获奖app要等到今年微软Ignite大会上才会公布，不过能进入这个决赛名单，我已经心满意足了。
+虽然最终的获奖app要等到今年微软Ignite大会上才会公布，不过能进入这个决赛名单，能和Pinterest、Pickit和CorelCAD等大牌app列在一起,我已经心满意足了。
 
 再次谢谢大家的支持!
 
