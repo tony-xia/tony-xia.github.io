@@ -5,7 +5,7 @@ title: Teams内嵌的卡片image的限制
 
 我的LuckyDraw上线后收到了不少有价值的反馈，其中有一部分是针对图片的，有一些用户说他们填写了image的url，但是图片显示不出来。
 
-![ImageIsUnavailable](../images/post20190916/001.png)
+![ImageIsUnavailable](../images/post20190929/001.png)
 
 实际上这个问题在我提交这个应用到微软审核团队的时候，审核团队也提出了类似问题。但这个是Teams本身的限制。具体的文档见：
 [https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/cards/cards-reference](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/cards/cards-reference)
