@@ -48,10 +48,13 @@ title: 分享到Teams
 ```
 
 另外，我们还可以指定预览的文字和图片
-|Value|Meta tag| Open Graph|
-|----|----|----|
-|Title|`<meta name="title" content="页面标题">`|`<meta property="og:title" content="页面标题">`|
-|Description|`<meta name="description" content="页面简短说明">`|`<meta property="og:description" content="页面简短说明">`|
-|Thumbnail Image| none |`<meta property="og:image" content="预览图的URL">`|
+
+```html
+<head>
+    <meta name="title" content="页面标题">
+    <meta name="description" content="页面简短说明">
+    <meta name="og:image" content="预览图的URL">
+</head>
+```
 
 赶快行动起来吧，让你的页面被海量的Teams用户分享吧！
