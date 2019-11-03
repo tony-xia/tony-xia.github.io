@@ -15,14 +15,14 @@ title: Teams Bot如何判断用户所在的时区
     "id": "f:1361493733941541435",
     "channelId": "msteams",
     "serviceUrl": "https://smba.trafficmanager.net/apac/",
-    "from": { ... },
+    "from": { },
     "conversation": {
         "isGroup": true,
         "conversationType": "channel",
         "tenantId": "aece5000-341d-493a-841d-f67e417f1447",
         "id": "19:bf1cbc367561473db0c3fe762c11b508@thread.skype"
     },
-    "recipient": { ... },
+    "recipient": { },
     "entities": [
         {
             "locale": "en-US",
@@ -31,7 +31,7 @@ title: Teams Bot如何判断用户所在的时区
             "type": "clientInfo"
         }
     ],
-    "channelData": { ... },
+    "channelData": { },
     "value": {
         "commandId": "start",
         "commandContext": "compose",
