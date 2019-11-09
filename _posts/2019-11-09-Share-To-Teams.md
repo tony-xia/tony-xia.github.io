@@ -21,15 +21,15 @@ title: 分享到Teams
 
 使用Edge或者Chrome浏览器打开这个html文件（注意：当前版本只支持edge和chrome）。
 
-![Teams](../images/post20191104/001.png)
+![Teams](../images/post20191109/001.png)
 
 点击这个Teams的图标，会弹出一个新窗口，在这个窗口中，用户就可以选择要分享到的team或者channel了，也可以对要分享的文字在进行修改。另外还有一个网页的预览。
 
-![Teams](../images/post20191104/002.png)
+![Teams](../images/post20191109/002.png)
 
 注意一点：当前版本不支持免费(Freemium)和guest账号，也就是说你需要是一个office365账号，并且你只能分享到你所在的office365 tenant中。如果你是一个Freemium账号，你会看到如下的界面。
 
-![Teams](../images/post20191104/003.png)
+![Teams](../images/post20191109/003.png)
 
 为了适应不同的页面需求，可以通过`data-icon-px-size`来指定Teams图标的大小。比如：
 ``` html
