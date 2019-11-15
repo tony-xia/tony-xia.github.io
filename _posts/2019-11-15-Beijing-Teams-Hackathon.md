@@ -14,3 +14,7 @@ title: 在Teams Hackathon上介绍LuckyDraw
 最后虽然由于种种原因只能请另一位app作者张坤帮我完成讲解，但能把开发LuckyDraw的经验分享给这么多优秀的开发精英们，非常开心。 :)
 
 ![Teams](../images/post20191115/002.jpg)
+
+![Teams](../images/post20191115/003.jpg)
+
+![Teams](../images/post20191115/004.jpg)
