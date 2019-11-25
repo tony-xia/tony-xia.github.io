@@ -33,5 +33,6 @@ DELETE /groups/{id}/owners/{userId}/$ref
 POST /groups/{id}/members/$ref
 ```
 
-希望这两个已知问题能尽快得到产品团队的解决，也希望这篇文章能在大家遇到类似的问题时，对大家有帮助。另外，强烈推荐[Microsoft Teams开发入门和实践](https://edu.csdn.net/course/detail/26738) 这套视频教程，从入门到精通Teams开发！
+希望这两个已知问题能尽快得到产品团队的解决，也希望这篇文章能在大家遇到类似的问题时，对大家有帮助。
 
+另外，强烈推荐微软牛人Ares陈老师的Teams开发系列视频讲座：[Microsoft Teams开发入门和实践](https://aka.ms/teamsdev163study) ，从入门到精通Teams开发！本篇博客里提到的GraphAPI在章节4中有详细解说。
