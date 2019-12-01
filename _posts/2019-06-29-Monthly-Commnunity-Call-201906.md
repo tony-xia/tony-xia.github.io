@@ -10,3 +10,4 @@ title: 在2019年6月Teams Community Call上分享的Teams app基础架构视频
 [![Slide](../images/post20190629/001_first_slide.png)](https://greatchinaoffice365-my.sharepoint.com/:v:/g/personal/tony_greatchinaoffice365_onmicrosoft_com/EdbWSnnTzbZOmWI9pdmsJwoBTZed2jHEUbIu6Iu157TyHg?e=ggJbjn)
 
 [Download Video](https://greatchinaoffice365-my.sharepoint.com/:v:/g/personal/tony_greatchinaoffice365_onmicrosoft_com/EdbWSnnTzbZOmWI9pdmsJwoBTZed2jHEUbIu6Iu157TyHg?e=ggJbjn)
+My Talk Session: 15:00 - 33:00
