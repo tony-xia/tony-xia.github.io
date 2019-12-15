@@ -5,6 +5,8 @@ title: Ignite the Tour(Beijing)顺利闭幕
 
 今年北京场的Ignite the Tour圆满结束，我有幸被邀请做了两场技术讲座，一场是45分钟，一场是15分钟，主题都是讲如何在Teams平台上开发一款面向全世界用户的Teams app！
 
+参加大会的同学们都听的十分用心，还有人自己录制了我的整场讲演，真心希望能有更多的工程师使用微软产品和技术！
+
 ![IgniteBeijing](../images/post20191213/001.JPG)
 
 ![IgniteBeijing](../images/post20191213/002.JPG)
