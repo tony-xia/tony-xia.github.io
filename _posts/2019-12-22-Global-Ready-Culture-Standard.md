@@ -30,6 +30,8 @@ title: 面向全球用户的Teams app之Culture计量单位和禁忌篇
 
 ![VS RC Issue](../images/post20191222/001.png)
 
+[链接](https://developercommunity.visualstudio.com/content/problem/475341/vs-installer-welcome-image-contains-offensive-elem.html)
+
 好在微软visual studio产品团队立刻就采纳了这个建议，后一个RC版本就做了修正。所以我们在做本地化的时候需要处处用心
 
 这就是文化差异，不同国家和地区，在做本地化的时候不是简单的翻译，而是应该按照当地的文化，进行处理。我们要有微软CEO Satya Nadella提倡的Growth mindset，对于用户提出的反馈需要保持开放的心态，积极的响应和处理。这样你的teams app才能在一轮轮迭代中，不断改进，越来越符合全球不同用户的文化需求。
