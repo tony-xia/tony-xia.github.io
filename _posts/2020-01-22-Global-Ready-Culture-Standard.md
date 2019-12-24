@@ -28,7 +28,7 @@ title: 面向全球用户的Teams app之Culture计量单位和禁忌篇
 
 下面这张图是VS2019的一个预览版RC版本的一个issue，当时我们mvp社区的一个大牛，看到了这个画面，就提了一个issue，因为这个是visual studio，用户是广大程序员，图中的这个程序员带了一顶绿绿的帽子，我相信大家看到这里就在笑了，因为大家基本都知道绿帽子是什么意思，但是远在美国的VS产品设计团队可能不知道。
 
-![VS RC Issue](../images/post20191222/001.png)
+![VS RC Issue](../images/post20200122/001.png)
 
 [链接](https://developercommunity.visualstudio.com/content/problem/475341/vs-installer-welcome-image-contains-offensive-elem.html)
 
