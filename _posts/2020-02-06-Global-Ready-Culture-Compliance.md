@@ -7,7 +7,7 @@ title: 面向全球用户的Teams app之合规性篇
 
 说到合规性compliance，不得不说GDPR标准，当我们发布了一个teams app后，微软会要求开发人员做一个security self assessment，这个assessment大约有100个问题，其中有10多个问题都是针对GDPR的。
 
-![Compliance](../images/post20200215/001.png)
+![Compliance](../images/post20200206/001.png)
 
 实际上，说白了GDPR的要求也不复杂，但是实现起来肯定让各位程序猿/程序媛多掉头发。
 
@@ -25,7 +25,7 @@ title: 面向全球用户的Teams app之合规性篇
 
 让我们来看一下我们强大的Office365符合了哪些compliance:
 
-![Compliance](../images/post20200215/002.png)
+![Compliance](../images/post20200206/002.png)
 
 [https://www.microsoft.com/en-us/TrustCenter/Compliance/complianceofferings](https://www.microsoft.com/en-us/TrustCenter/Compliance/complianceofferings)
 
