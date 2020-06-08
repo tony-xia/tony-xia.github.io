@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teams Bot系列开发：Activity和Turn
+title: Teams Bot开发系列：Activity和Turn
 ---
 
 这篇文章我们来说一下Activity和Turn这两个bot framework中最重要的两个概念，同时也介绍一下TurnContext和BotAdapter

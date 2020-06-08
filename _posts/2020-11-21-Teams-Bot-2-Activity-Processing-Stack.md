@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teams Bot系列开发：Activity处理流程
+title: Teams Bot开发系列：Activity处理流程
 ---
 
 上篇文章介绍了什么是Activity，Turn，TurnContext和BotAdapter，这篇文章我们看看这些东西是如何窜起来的，他们是如何处理用户发给bot的消息的。

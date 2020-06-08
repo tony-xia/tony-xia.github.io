@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teams Bot系列开发：初识Bot
+title: Teams Bot开发系列：初识Bot
 ---
 
 上次我们讲了Teams Bot开发的概述，讲了Azure Bot Service，Bot Framework SDK和我们自己的bot服务的概念，这篇文章就带大家看看Azure Bot Service和我们的bot是如何发生关系的。
