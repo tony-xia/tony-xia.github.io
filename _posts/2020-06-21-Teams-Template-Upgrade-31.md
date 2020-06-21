@@ -5,7 +5,7 @@ title: 将Teams Template升级到dotnet core 3.1
 
 为了方便开发者开发Teams应用，我在2018年做了dotnet c#的一套模板，这套模块一共有三种类型，一个是Teams OutgoingWebhook，一个是MessagingExtension，还有一个就是Tab。
 
-![TeamsTemplate](../images/post20200628/001.png)
+![TeamsTemplate](../images/post20200621/001.png)
 
 今天特地去nuget上看了一下，下载量还很不错，达到了将近9k的下载。看起来的确帮到了不少Teams的开发人员。 :)
 
