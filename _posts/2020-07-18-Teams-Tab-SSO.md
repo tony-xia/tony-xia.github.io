@@ -9,12 +9,12 @@ title: Teams Tab的Single Sign-On
 
 我们先来看一下处理的流程：
 
-![sso](../images/post20200728/001.png)
+![sso](../images/post20200718/001.png)
 
 1. 在你的tab前端代码里，调用`getAuthToken()`方法，这个方法会告知Teams客户端，你的tab app想要一个token。
 2. 如果这个是当前用户第一次，并且你的app需要用户审核，那teams客户端就会弹出一个审核的窗口。类似于下图
 
-![sso](../images/post20200728/002.png)
+![sso](../images/post20200718/002.png)
 
 3. Teams客户端会向Azure AD发送申请用户token的请求。
 4. 如果一切顺利，AzureAD就会把token返回给Teams客户端
