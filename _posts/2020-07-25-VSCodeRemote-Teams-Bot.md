@@ -79,16 +79,16 @@ $ sudo snap install ngrok
 $ ngrok http 5000
 ```
 
-![ngrok](../images/post20200730/001.png)
+![ngrok](../images/post20200725/001.png)
 
 在本地启动bot emulator，增加一个bot endpoint，输入上面ngrok产生的一个url
 
-![Bot Emulator](../images/post20200730/002.png)
+![Bot Emulator](../images/post20200725/002.png)
 
 因为我们是用本机的bot emulator连到另一台机器的bot service，所以我们本地的bot emulator需要配置本地ngrok的路径，如下图：
 
-![Bot Emulator](../images/post20200730/003.png)
+![Bot Emulator](../images/post20200725/003.png)
 
 完成后，我们就可以在emulator里打开这个bot，发送文字，然后就可以收到你的remote bot的回复了。 :D
 
-![Bot Emulator](../images/post20200730/004.png)
+![Bot Emulator](../images/post20200725/004.png)
