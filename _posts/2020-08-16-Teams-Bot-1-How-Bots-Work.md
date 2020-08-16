@@ -9,7 +9,7 @@ title: Teams Bot开发系列：初识Bot
 
 我们来看一个简单例子：用户在模拟器里对bot发送一个"hi"消息，然后bot回复一个"You said: hi"消息。整个流程如下：
 
-![Flow](../images/post20200731/001.png)
+![Flow](../images/post2020816/001.png)
 
 1. 当用户准备开始和bot进行聊天的时候，azure bot service就会向我们的bot endpoint上 POST 一个关于 conversationUpdate 的HTTP请求，告诉我们的bot，有一个用户准备要和bot聊天了。下面是Bot Emulator，相当于Azure Bot Service传递给我们bot endpoint的http request body
 
