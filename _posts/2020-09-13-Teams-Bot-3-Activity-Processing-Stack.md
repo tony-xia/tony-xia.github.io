@@ -7,7 +7,7 @@ title: Teams Bot开发系列：Activity处理流程
 
 我们以一个最简单的bot，echo bot为例子，所谓的echo bot就是用户发什么消息，它就照样回复一条消息。为了简单起见，大家可以先安装VS2019的一个扩展插件[BotBuilderVSIX.vsix template](https://aka.ms/bot-vsix)，然后创建一个NET core 3.1的Echo bot。
 
-![EchoBot](../images/post20201121/001.png)
+![EchoBot](../images/post20200913/001.png)
 
 可以看到这个模板为什么创建了一个项目，我们先到Startup.cs看一下：
 
@@ -63,7 +63,7 @@ public abstract class BotAdapter
 
 现在，我们结合下面这张图来理解整个的处理过程。
 
-![ActivityProcessingStack](../images/post20201121/002.png)
+![ActivityProcessingStack](../images/post20200913/002.png)
 
 1. 可以看到，当用户发了一条文字消息 "Hi"，这个消息被发到我们bot服务的时候，我们调用Adapter的`ProcessActivity`方法。我们在`BotController.cs`可以看到这个。
 
