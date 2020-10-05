@@ -3,7 +3,7 @@ layout: post
 title: Teams Bot开发系列：Teams的Activity处理
 ---
 
-上一篇文章讲了activity处理的流程，我们bot的核心处理逻辑放在ActivityHandler的子类里，通过重载`OnMessageActivityAsync()`方法来实现。
+上一篇文章讲了 activity 处理的流程，我们bot的核心处理逻辑放在ActivityHandler的子类里，通过重载 `OnMessageActivityAsync()` 方法来实现。
 
 这篇文章我来讲一下对于Teams的bot来说，整个处理的逻辑会有哪些不同点。
 
