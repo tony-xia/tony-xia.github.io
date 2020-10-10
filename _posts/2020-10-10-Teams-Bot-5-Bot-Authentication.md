@@ -13,7 +13,7 @@ title: Teams Bot开发系列：Bot验证
 
 我们以一个例子来看一下具体的做法：
 
-![BotAuth](../images/post20201123/001.png)
+![BotAuth](../images/post20201010/001.png)
 
 假设用户促发了一个操作，要完成这个操作需要我们的bot调用Graph API，而调用Graph API需要有调用的Token。
 
