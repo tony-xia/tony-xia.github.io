@@ -7,13 +7,13 @@ middleware是目前一些framework比较流行的概念，通常一个开发框�
 
 熟悉asp.net core的开发可能第一个想到的就是asp.net core的middleware，如下图：
 
-![Middleware](../images/post20201124/001.png)
+![Middleware](../images/post20201017/001.png)
 
 当一个http request进入到处理的pipeline后，先被一个个middleware嵌套的执行，完成后在一个个推出。如果我们需要一些定制化功能，比如想把每个request要做一个统计记录，那开发可以自己写个middleware，加入到这个pipeline里，这样任何一个request都会从这个middleware通过，middleware就可以对request进行统计分析。
 
 我自己整理了一下bot framework的middleware，如下图：
 
-![Middleware](../images/post20201124/002.png)
+![Middleware](../images/post20201017/002.png)
 
 可以看到当 Adapter 把 TurnContext 创建好后，就会开始一个个调用middleware，每一个middleware会通过调用`next()`来触发下一个middleware，在middleware pipeline的终点是ActivityHandler的`OnTurnAsync()`方法。
 
