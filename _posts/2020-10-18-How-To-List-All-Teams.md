@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如果获取租户中所有的Team
+title: 如何获取租户中所有的Team
 ---
 
 大家在使用Graph API开发Teams App的时候，有时候会需要获取某个租户Tenant的所有team，在写这篇文章的时候Graph API并没有提供这么一个功能，没有一个类似于"GET /teams"的api。
