@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如果使用Graph API获取团队的主频道
+title: 如何使用Graph API获取团队的主频道
 ---
 
 当我们在Teams里创建一个团队team的时候，系统会默认创建一个频道channel，这个频道就是我们最主要最核心的一个channel，那我们如何可以用Graph API来找到这个主channel呢？
