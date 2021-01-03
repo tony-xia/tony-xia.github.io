@@ -42,7 +42,7 @@ http请求的内容为：
 
 ### 发送 Team 相关的 Activity Notification
 
-API 为 `POST /teams/{teamId}/sendActivityNotification`
+API 为 `POST https://graph.microsoft.com/beta/teams/{teamId}/sendActivityNotification`
 
 http请求的内容和之前的很像：
 
@@ -77,7 +77,7 @@ http请求的内容和之前的很像：
 
 ### 发送 User 相关的 Activity Notification
 
-API 为 `POST /users/{userId}/teamwork/sendActivityNotification`
+API 为 `POST https://graph.microsoft.com/beta/users/{userId}/teamwork/sendActivityNotification`
 
 http请求的内容和之前的很像：
 
