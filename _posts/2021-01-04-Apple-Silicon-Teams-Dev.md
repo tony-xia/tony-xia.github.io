@@ -5,7 +5,7 @@ title: 如何在 Apple Silicon (M1) 上开发 Teams App
 
 apple 在几个月前发布了自家的芯片 M1，由于将多核cpu，多核gpu，神经网络运算，内存和其他一切处理部件高度整合在一起，大大提高数据传输速度。发布后好评如潮，我也没有忍住，入手了一台最低配的mac air m1。目前 M1 还是有很多软件不能很好支持，当然，这个无法阻挡我在上面的开发。我给大家分享一下我在apple silicon上开发的过程。
 
-![M1](../images/post20210406/001.jpg)
+![M1](../images/post20210104/001.jpg)
 
 首先，到写这篇文章的时候还有很多开发软件不支持跑在M1上，我们来看看当前的状态。
 
@@ -33,6 +33,6 @@ apple 在几个月前发布了自家的芯片 M1，由于将多核cpu，多核gp
 
 One more thing，目前 Teams 本身还不支持 M1，相信这个会被很快解决，因为 Electron 最近也已经支持了 apple silicon 了。[https://www.electronjs.org/blog/electron-11-0](https://www.electronjs.org/blog/electron-11-0)
 
-![TeamsOnM1](../images/post20210406/002.png)
+![TeamsOnM1](../images/post20210104/002.png)
 
 最后，如果大家对目前各大软件支持apple silicon的进度感兴趣的话，可以访问这个网站，非常实用：[https://isapplesiliconready.com/for/developer](https://isapplesiliconready.com/for/developer)
