@@ -7,11 +7,11 @@ title: 用AzureFunction开发最简单的Teams Bot
 
 我们先创建一个azure function资源，然后创建一个由http触发的Function。具体步骤和上次outgoing webhook的步骤类似，我就不再重复。
 
-![BotFunction](../images/post20210407/001.png)
+![BotFunction](../images/post20210117/001.png)
 
 为了调试方便，我这里允许匿名访问这个function。
 
-![BotFunction](../images/post20210407/002.png)
+![BotFunction](../images/post20210117/002.png)
 
 创建完function后，我们就可以输入下面的代码：
 
@@ -69,9 +69,9 @@ MicrosoftAppCredentials.TrustServiceUrl(activity.ServiceUrl, DateTime.UtcNow.Add
 
 当我们保存上面的代码的时候，azure function 就会自动进行编译，但是编译失败，原因是 `Microsoft.Bot.*` 命名空间找不到，因为我们还没有引用对应的库。我们进入 App Service Editor (目前还是preview版本)，在我们的function的目录下创建一个 `function.proj` 文件。
 
-![BotFunction](../images/post20210407/003.png)
+![BotFunction](../images/post20210117/003.png)
 
-![BotFunction](../images/post20210407/004.png)
+![BotFunction](../images/post20210117/004.png)
 
 `function.proj` 文件内容如下：
 
