@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用ActivityFeed到Teams
+title: 推送ActivityFeed到Teams
 ---
 
 几个月前，Teams 团队又推出了新的 Graph API，让 app 可以给用户发送 Activity Feed。我们来看看如何做。
