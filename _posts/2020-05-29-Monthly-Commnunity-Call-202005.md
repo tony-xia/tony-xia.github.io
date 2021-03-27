@@ -10,4 +10,4 @@ title: 2020年5月Teams Community Call上分享：Teams Update (Build 2020)
 [Download Full Video](https://greatchinaoffice365-my.sharepoint.com/:v:/g/personal/tony_greatchinaoffice365_onmicrosoft_com/ETqqzC4rwOBIrEjyNLKYKM0Bn-P8X3ETIp-O9yNnD1i-EA?e=ysv0Ly)
 My Talk Session: 00:46:46 - 01:00:26
 
-[![Slide](../images/post20200430/001.png)](https://greatchinaoffice365-my.sharepoint.com/:v:/g/personal/tony_greatchinaoffice365_onmicrosoft_com/ETqqzC4rwOBIrEjyNLKYKM0Bn-P8X3ETIp-O9yNnD1i-EA?e=ysv0Ly)
+[![Slide](../images/post20200529/001.jpg)](https://greatchinaoffice365-my.sharepoint.com/:v:/g/personal/tony_greatchinaoffice365_onmicrosoft_com/ETqqzC4rwOBIrEjyNLKYKM0Bn-P8X3ETIp-O9yNnD1i-EA?e=ysv0Ly)
