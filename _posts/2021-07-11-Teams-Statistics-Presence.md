@@ -5,9 +5,9 @@ title: Teams数据统计 - 用户在线离线状态
 
 前几天我在wechat的moments里看到以为朋友发了腾迅会议的对用户个人的年度数据统计，看上去很有大数据感。
 
-![TeamsStatistics](../images/post20210411/001.png)
-![TeamsStatistics](../images/post20210411/002.png)
-![TeamsStatistics](../images/post20210411/003.png)
+![TeamsStatistics](../images/post20210711/001.png)
+![TeamsStatistics](../images/post20210711/002.png)
+![TeamsStatistics](../images/post20210711/003.png)
 
 
 实际上 Teams 也具备的类似的能力，只是它把这个能力开放给了开发人员，我们可以通过强大的 Graph API，获取大量的数据信息（当然，为了保证数据安全，你的app必须获得 tenant 管理员的同意）。

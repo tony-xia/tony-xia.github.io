@@ -49,7 +49,7 @@ GET /communications/callRecords/{id}
 
 实际上 Teams 里的 call record 比我们想象的复杂很多，一个call里可能有多个 session 组成，我们用一张官方的数据模型图看一下。
 
-![TeamsStatistics](../images/post20210412/callrecords-structure.png)
+![TeamsStatistics](../images/post20210712/callrecords-structure.png)
 
 我们可以给上面这个 api 加上参数来获取 session。
 ```
